@@ -113,7 +113,7 @@ def login():
 def jalan(z):
 	for e in z + '\n':
 		sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-############### #LOGO############## ## 
+############### #LOGO################ 
  
 # LOGIN
 def Public():
@@ -1315,7 +1315,7 @@ os.system('clear');print(logo)
 				print ("\r \033[1;32m Congrats ")
 				self.ok.append("%s|%s"%(uid, pw))
 				open("DAVA-OK.txt","a").write(" %s|%s\n"%(uid, pw))
-				break
+			break
 			elif "www.facebook.com" in response.json()["error_msg"]:
 				print("\r \033[1;32m[DAVA-OK] %s | %s\033[1;32m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
