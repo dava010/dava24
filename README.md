@@ -10,7 +10,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/dava010/Dava.git
+git clone https://github.com/dava010/dava.git
 
 cd Dava
 
