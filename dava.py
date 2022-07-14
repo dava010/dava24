@@ -255,7 +255,6 @@ def first():
 					pwv.append('1234554321')
 					pwv.append('1234512345')
 					pwv.append('11122334455')
-					pwv.append(frs+'.321')
 					pwv.append(frs+'0750')
 					pwv.append('1234567890')
 					pwv.append('123456')
