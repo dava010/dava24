@@ -12,6 +12,6 @@ pkg install git
 
 git clone https://github.com/dava010/dava.git
 
-cd Dava
+cd dava
 
-python Dava.py
+python dava.py
