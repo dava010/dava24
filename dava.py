@@ -255,7 +255,6 @@ def first():
 					pwv.append('1234554321')
 					pwv.append('1234512345')
 					pwv.append('1122334455')
-					pwv.append('12345678')
 			if 'mobile' in method:
 				pool.submit(crack,idf,pwv)
 			elif 'free' in method:
