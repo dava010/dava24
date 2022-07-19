@@ -262,7 +262,6 @@ def first():
 					pwv.append(frs+'333')
 					pwv.append(frs+'4321')
 					pwv.append(frs+'54321')
-					pwv.append(frs+'54321')
 					pwv.append(frs+'000')
 					pwv.append(frs+'654321')
 					pwv.append(frs+'90')
