@@ -20,6 +20,6 @@ pip install bs4
 
 git clone https://github.com/dava010/dava3.git
 
-cd dava
+cd dava3
 
 python dava.py
