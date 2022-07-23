@@ -18,8 +18,8 @@ pip install lolcat
 
 pip install bs4
 
-git clone https://github.com/dava010/dava6.git
+git clone https://github.com/dava010/dava7.git
 
-cd dava6
+cd dava7
 
 python dava.py
