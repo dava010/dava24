@@ -1,8 +1,5 @@
 # davam
 
-#Installations
-
-
 pkg update
 
 pkg upgrade
