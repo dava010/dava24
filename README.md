@@ -1,4 +1,4 @@
-# dava
+`#Installations`
 
 pkg update
 
@@ -20,8 +20,8 @@ pip install bs4
 
 pip install rich
 
-git clone https://github.com/dava010/davam17.git
+git clone https://github.com/dava010/dava23.git
 
-cd davam17
+cd dava23
 
 python dava.py
