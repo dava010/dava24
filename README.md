@@ -20,8 +20,8 @@ pip install bs4
 
 pip install rich
 
-git clone https://github.com/dava010/dava23.git
+git clone https://github.com/dava010/dava24.git
 
-cd dava23
+cd dava24
 
 python dava.py
